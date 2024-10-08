@@ -1,5 +1,3 @@
-Here’s a sample `README.md` for your project:
-
 ```markdown
 # Production Planner V0.1
 
