@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/9633da43-8723-47e9-8083-b81e0fac6269)
+
 ```markdown
 # Production Planner V0.1
 
